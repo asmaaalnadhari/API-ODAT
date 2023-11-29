@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.deps.json
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.dll
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Infrastructure.pdb
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Application.dll
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Domain.dll
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Application.pdb
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\bin\Debug\net8.0\Todo.Domain.pdb
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.csproj.CopyComplete
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.dll
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\refint\Todo.Infrastructure.dll
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\Todo.Infrastructure.pdb
+C:\Users\PC\source\repos\TodoAPI\Todo.Infrastructure\obj\Debug\net8.0\ref\Todo.Infrastructure.dll
